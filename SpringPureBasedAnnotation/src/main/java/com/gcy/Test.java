@@ -15,6 +15,7 @@ public class Test {
         }
         MyService myService = (MyService) ac.getBean("getMyService");
         myService.sayHello();
+        myService.sayHello();
 
     }
 }

@@ -10,4 +10,8 @@ public class MyService {
     public void sayHello(){
         System.out.println("Hello Spring based-PureAnnotationf!");
     }
+
+    public void sayHi(){
+        System.out.println("Hi Spring based-PureAnnotationf!");
+    }
 }
